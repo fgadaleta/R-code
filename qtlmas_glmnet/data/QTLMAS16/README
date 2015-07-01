@@ -1,0 +1,28 @@
+Simulation procedure
+
+A base population (G0) of 1020 unrelated individuals (20 males and 1000 females) was generated  with a 499.750 Mb long genome consisting of 5 chromosomes.  Each chromosome had a size of 99.95 Mb and carried 2,000 equally  distributed SNP (1 SNP every 0.05 Mb or cM ). The base population haplotypes were generated in order to obtain fixed LD decay and MAF distribution. Each of the following four generations (G1-G4) consisted of 20 males and 1000 females and was generated from the previous one by randomly mating each male with 51 female. The female prolificacy was set to 1 except for the 20 dams of male which generated 2 offspring (1 male  and  1 female). Generations did not overlap. Three milk production quantitative traits were simulated. Traits were correlated and generated in order to mimic two yields and the corresponding content.
+
+
+Data set
+
+QTLMASXVI.gnl [100.1 KB]
+Contains the pedigree of 4100 individuals (males only for G0 and all the individuals for G1-G4). The pedigree file is in the form: individual ID; Sire; Dam (0=missing parent); Sex (1=male, 2=female, 0=missing parent); Generation.
+
+QTLMASXVI.map [241.0 KB]
+Contains the list of the SNPs sorted by chromosome and position within chromosome. It reports: chromosome; SNP id; Position in cM; Position in pb.
+
+QTLMASXVI.gnt [156.4 MB]
+Contains the SNP genotypes for 4100 individuals (only males for G0 and all individuals for G1-G4). SNP are sorted by chromosomes and location on the chromosome. Two alleles are given for each SNP. The file has 4,100 lines and 20,001 columns which correspond to: Individual ID; SNP1 allele1; SNP1 allele2; ..... SNP10,000 allele1; SNP10,000 allele2.
+
+QTLMASXVI.dat [117.2 KB]
+All traits only express in females, thus this file contains the phenotypes of the 3,000 females from G1-G3. Phenotypes are given as individual yield deviations. Young individuals (G4: individuals 3081 to 4100) have no phenotypic records. The file has the form: individual; Trait1; Trait2; Trait3.
+Challenge
+
+The first aim of this challenge is to get a list of QTLs affecting each trait and recover their possible pleiotropic actions. The second aim is to evaluate the breeding values of the 1,020 progenies without phenotypes (G4) using genomic information. Results will be compared to the list of QTLs that were set to influence the traits and to the true breeding values of individuals.
+True data
+
+QTLMASXVI_qtl.doc [124.0 KB]
+Contains the list of the simulated QTL sorted by chromosome and position, their effect and their pleiotropic nature.
+
+QTLMASXVI_tbv.zip [60.3 KB]
+Contains the true breeding of 4100 genotyped individuals (males only for G0 and all the individuals for G1-G4). The file has the form: individual_ID; TBVTrait1; TBVTrait2; TBVtrait3.
