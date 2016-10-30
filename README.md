@@ -2,8 +2,10 @@
 Code repository of most of the R script I have been developing for several academic and commercial projects. 
 The code is heavily commented. 
 
-Feel free to distribute, preserving the credits (if you can).
-Thank you.
+Distributing, re-using and sharing are permitted, provided credits and license are preserved.
+
+
+
 
 Copyright 2013, Francesco Gadaleta
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
