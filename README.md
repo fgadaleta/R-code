@@ -2,6 +2,18 @@
 Code repository of most of the R script I have been developing for several academic and commercial projects. 
 The code is heavily commented. 
 
+[Example of ROC curves for performance measuring](https://github.com/worldofpiggy/R-code/blob/master/ROC.R)
+[Canonical Correlation Analysis](https://github.com/worldofpiggy/R-code/blob/master/canonical%20correlation%20analysis.R)
+[Descent algorithms](https://github.com/worldofpiggy/R-code/blob/master/gradient_descent.R)
+[Data Fitting](https://github.com/worldofpiggy/R-code/blob/master/fitData.R)
+[Regression in the Lasso family](https://github.com/worldofpiggy/R-code/blob/master/my_lasso.R)
+[Metropolis Hastings algorithm](https://github.com/worldofpiggy/R-code/blob/master/metropolis-hastings-detailed.R)
+[Principal Component Analysis](https://github.com/worldofpiggy/R-code/blob/master/principal_component_analysis.R)
+[Poisson distribution selection](https://github.com/worldofpiggy/R-code/blob/master/select_poisson.R)
+[Twitter API in R](https://github.com/worldofpiggy/R-code/blob/master/twitter.R)
+[SVM in R](https://github.com/worldofpiggy/R-code/blob/master/svm.R)
+
+
 Distributing, re-using and sharing are permitted, provided credits and license are preserved.
 
 
