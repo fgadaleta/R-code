@@ -10,6 +10,7 @@ The code is heavily commented.
 - [Metropolis Hastings algorithm](https://github.com/worldofpiggy/R-code/blob/master/metropolis-hastings-detailed.R)
 - [Principal Component Analysis](https://github.com/worldofpiggy/R-code/blob/master/principal_component_analysis.R)
 - [Poisson distribution selection](https://github.com/worldofpiggy/R-code/blob/master/select_poisson.R)
+- [Power law distribution](https://github.com/worldofpiggy/R-code/blob/master/powerlaw.R)
 - [Twitter API in R](https://github.com/worldofpiggy/R-code/blob/master/twitter.R)
 - [SVM in R](https://github.com/worldofpiggy/R-code/blob/master/svm.R)
 
